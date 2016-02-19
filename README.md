@@ -1,0 +1,2 @@
+# YLCoin
+yilicoin
